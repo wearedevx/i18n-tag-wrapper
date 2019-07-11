@@ -11,7 +11,7 @@
   "dependencies": {
     "es2015-i18n-tag": "^1.6.0",
     "intl": "^1.2.5",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.13"
   },
   "devDependencies": {
     "jest": "^24.8.0"
